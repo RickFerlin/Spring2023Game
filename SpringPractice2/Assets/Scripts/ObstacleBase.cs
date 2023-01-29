@@ -7,6 +7,6 @@ public abstract class ObstacleBase : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        //Cause ship to bounce off
+        //Cause ship to bounce off 
     }
 }
